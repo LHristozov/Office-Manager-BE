@@ -9,4 +9,5 @@ public class OfficeManagerBeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OfficeManagerBeApplication.class, args);
 	}
+
 }
